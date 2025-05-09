@@ -32,7 +32,5 @@ I'm always happy to connect with fellow students, researchers, and data enthusia
 
 Thanks for checking out my GitHub! Whether you're here to explore a project, collaborate, or just say hi — welcome! Let’s keep building, learning, and solving meaningful problems together.
 
----
 
-![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemin-s&show_icons=true)
 
