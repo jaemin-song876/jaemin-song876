@@ -20,9 +20,6 @@ Before grad school, I was involved in a range of academic projects, from classif
 - **ETL & Data Engineering Tools**  
   Learning tools like Docker, SQL, and Dask for data pipeline building and scalable analytics.
 
-- **Human-Centered & Practical AI**  
-  I’m passionate about building systems that are interpretable and practically useful, especially in healthcare and public safety.
-
 ---
 
 ## 📁 What You'll Find Here
@@ -35,15 +32,6 @@ In my GitHub repositories, you’ll find:
 - 🗃️ Datasets (or code to access them), preprocessing pipelines, and more
 
 Feel free to explore, fork, and comment — I’m always looking for thoughtful feedback and collaborators!
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL, CASE/WHEN logic, and window functions
-- Docker for containerized reproducible workflows
-- Non-linear optimization and KKT conditions (through coursework)
-- Communication & collaboration in a global research environment
 
 ---
 
