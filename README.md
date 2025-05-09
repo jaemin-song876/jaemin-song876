@@ -17,22 +17,6 @@ Before grad school, I was involved in a range of academic projects, from classif
 - **Machine Learning & Deep Learning**  
   SVMs, CNNs, anomaly detection models, and model validation techniques.
 
-- **ETL & Data Engineering Tools**  
-  Learning tools like Docker, SQL, and Dask for data pipeline building and scalable analytics.
-
----
-
-## 📁 What You'll Find Here
-
-In my GitHub repositories, you’ll find:
-
-- 🧠 Research code and prototypes related to biomedical signal processing
-- 📈 Class projects exploring machine learning models and validation
-- 🔧 Tools and scripts for data preprocessing, visualization, and model evaluation
-- 🗃️ Datasets (or code to access them), preprocessing pipelines, and more
-
-Feel free to explore, fork, and comment — I’m always looking for thoughtful feedback and collaborators!
-
 ---
 
 ## 🤝 Let's Connect
