@@ -21,7 +21,7 @@ Before grad school, I was involved in a range of academic projects, from classif
 ## 🤝 Connect with Me
 I’m always open to connecting with fellow researchers, engineers, and data enthusiasts.
 Feel free to reach out for collaboration, questions, or professional networking.
-- 📬 Email: [jaemin.song@tamu.edu](mailto:jaemin.song@tamu.edu)  
+- 📬 Email: [jaemin.song876@gmail.com](mailto:jaemin.song876@gmail.com)  
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jaemin-song876/)
 - 🌐 Website: [Personal Website](https://jaemin-song876.github.io/)
 
