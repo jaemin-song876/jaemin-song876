@@ -18,19 +18,16 @@ Before grad school, I was involved in a range of academic projects, from classif
   SVMs, CNNs, anomaly detection models, and model validation techniques.
 
 ---
-
-## 🤝 Let's Connect
-
-I'm always happy to connect with fellow students, researchers, and data enthusiasts.
-
+## 🤝 Connect with Me
+I’m always open to connecting with fellow researchers, engineers, and data enthusiasts.
+Feel free to reach out for collaboration, questions, or professional networking.
 - 📬 Email: [jaemin.song@tamu.edu](mailto:jaemin.song@tamu.edu)  
-- 🔗 LinkedIn: [Jaemin Song](https://www.linkedin.com/in/jaemin-song876/)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jaemin-song876/)
+- 🌐 Website: [Personal Website](jaemin-song876.github.io)
 
----
-
-## 🙏 Thanks for Visiting!
-
-Thanks for checking out my GitHub! Whether you're here to explore a project, collaborate, or just say hi — welcome! Let’s keep building, learning, and solving meaningful problems together.
+## 🙏 Thank You for Visiting
+Thank you for taking the time to explore my work.
+I hope you find something insightful or inspiring here. Let’s continue building impactful solutions and learning together.
 
 
 
