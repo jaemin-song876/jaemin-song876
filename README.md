@@ -23,7 +23,7 @@ I’m always open to connecting with fellow researchers, engineers, and data ent
 Feel free to reach out for collaboration, questions, or professional networking.
 - 📬 Email: [jaemin.song@tamu.edu](mailto:jaemin.song@tamu.edu)  
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jaemin-song876/)
-- 🌐 Website: [Personal Website](jaemin-song876.github.io)
+- 🌐 Website: [Personal Website](https://jaemin-song876.github.io/)
 
 ## 🙏 Thank You for Visiting
 Thank you for taking the time to explore my work.
